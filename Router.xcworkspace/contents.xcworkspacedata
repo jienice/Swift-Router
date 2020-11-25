@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Basic/Basic.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TagrgetB/TagrgetB.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TagrgetA/TagrgetA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:App/App.xcodeproj">
+   </FileRef>
+</Workspace>
